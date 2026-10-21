@@ -59,21 +59,26 @@
   ]
 }
 </script>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "OnlineBusiness",
   "name": "NUVO77",
-  "alternateName": ["NUVO77","SLOT"],
+  "alternateName": [
+    "NUVO77",
+    "SLOT"
+  ],
   "url": "https://www.janbasktraining.com/blog/what-is-des/",
   "logo": "https://seo-juliet.b-cdn.net/logo/logo-nuvo77.webp",
-  "title": "NUVO77 | Situs Game Online Bikin Senyum & Akses Panduan Link Alternatif",
   "description": "Jelajahi NUVO77, platform hiburan game online dengan navigasi praktis, panduan akses login, dan informasi link alternatif untuk pengalaman digital yang nyaman.",
   "contactPoint": {
     "@type": "ContactPoint",
     "contactType": "Customer Support",
     "url": "https://www.janbasktraining.com/blog/what-is-des/",
-    "availableLanguage": ["English"],
+    "availableLanguage": [
+      "English"
+    ],
     "areaServed": "Worldwide"
   },
   "address": {
@@ -86,14 +91,34 @@
     "addressCountry": "AU"
   },
   "subOrganization": [
-    { "@type": "OnlineBusiness", "name": "NUVO77", "url": "https://www.janbasktraining.com/blog/what-is-des/" },
-    { "@type": "OnlineBusiness", "name": "Link Alternatif", "url": "https://www.janbasktraining.com/blog/what-is-des/" },
-    { "@type": "OnlineBusiness", "name": "Situs Login", "url": "https://www.janbasktraining.com/blog/what-is-des/" },
-    { "@type": "OnlineBusiness", "name": "Daftar Online", "url": "https://www.janbasktraining.com/blog/what-is-des/" },
-    { "@type": "OnlineBusiness", "name": "Agen Slot Resmi", "url": "https://www.janbasktraining.com/blog/what-is-des/" }
-  ],
-  
-    </script>
+    {
+      "@type": "OnlineBusiness",
+      "name": "NUVO77",
+      "url": "https://www.janbasktraining.com/blog/what-is-des/"
+    },
+    {
+      "@type": "OnlineBusiness",
+      "name": "Link Alternatif",
+      "url": "https://www.janbasktraining.com/blog/what-is-des/"
+    },
+    {
+      "@type": "OnlineBusiness",
+      "name": "Situs Login",
+      "url": "https://www.janbasktraining.com/blog/what-is-des/"
+    },
+    {
+      "@type": "OnlineBusiness",
+      "name": "Daftar Online",
+      "url": "https://www.janbasktraining.com/blog/what-is-des/"
+    },
+    {
+      "@type": "OnlineBusiness",
+      "name": "Agen Slot Resmi",
+      "url": "https://www.janbasktraining.com/blog/what-is-des/"
+    }
+  ]
+}
+</script>
              
 <!-- Script Schema Markup FAQ untuk NUVO77 -->
 
